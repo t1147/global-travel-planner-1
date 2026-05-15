@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://t1147.github.io/global-travel-planner-1/sitemap.xml
